@@ -1,7 +1,7 @@
 
 <h2 style="text-align: left">
 
-  [Apresentação](#ovr) | [Procedimento](#proc) | [Próxima »](https://github.com/vcwild/wtp-eda)
+  [Apresentação](#ovr) | [Procedimento](#proc) | [Próxima »](https://github.com/vcwild/wtp-clean)
 
 </h2>
 
