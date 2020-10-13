@@ -16,33 +16,33 @@ Os dados de origem foram escritos em documentos “xlsx”, dispostos em formato
 
 O objetivo inicial é mapear os dados originais como são, localizando as abas e tabelas dentro delas, retirando os dados das tabelas e exportando para arquivos "csv" individuais, conforme indica o fluxograma:
 
-![Fluxograma](./.github/fluxograma.png)
+<img src=".github/fluxograma.png" style="text-align: center" width="650"/>
 
-As particularidades de cada tabela foram excluídas do fluxograma, mas podem ser consultadas nos [logs](./Logs) do [extrator](extractor.py). Ao todo foram encontrados 18 formatos únicos de tabela.
+As particularidades de cada tabela foram excluídas do fluxograma. Ao todo foram encontrados 18 formatos únicos de tabela.
 
 # Procedimento <a name="proc">
 
 O extrator localizou os seguintes conjuntos de dados referente a **parâmetros** nos arquivos de origem:
 
-- [Acidez](./Logs/acidez.ipynb)
-- [Alcalinidade](./Logs/alcalinidade.ipynb)
-- [Coliformes](./Logs/coliformes.ipynb)
-- [Compostagem](./Logs/compostagem.ipynb)
-- [Cor Verdadeira](./Logs/Cor_verdadeira.ipynb)
-- [DBO](./Logs/DBO.ipynb)
-- [DQO](./Logs/DQO.ipynb)
-- [Fósforo](./Logs/fosforo.ipynb)
-- [Nitrogênio](./Logs/nitrogênio.ipynb)
-- [Óleos](./Logs/óleos.ipynb)
-- [pH](./Logs/pH.ipynb)
-- [Sólidos](./Logs/sólidos.ipynb)
-- [Surfactantes](./Logs/surfactantes.ipynb)
+- Acidez
+- Alcalinidade
+- Coliformes
+- Compostagem
+- Cor Verdadeira
+- DBO
+- DQO
+- Fósforo
+- Nitrogênio
+- Óleos
+- pH
+- Sólidos
+- Surfactantes
 
-O extrator localizou os seguintes dados referentes a **localidades** nos arquivos de origem:
+O extrator localizou os seguintes dados referente a **localidades** nos arquivos de origem:
 
-- [CONSEMA](./Logs/toda_consema.ipynb)
-- [Leito de Secagem](./Logs/leito_de_secagem.ipynb)
-- [PTEL](.Logs/ptel.ipynb)
+- CONSEMA
+- Leito de Secagem
+- PTEL
 
 ## Próximas Etapas
 
