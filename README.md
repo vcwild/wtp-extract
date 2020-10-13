@@ -5,6 +5,12 @@
 
 </h2>
 
+## Próximas Etapas
+
+- [Tratamento de Dados](https://github.com/vcwild/wtp-clean)
+- [Análise Exploratória](https://github.com/vcwild/wtp-eda)
+- [Modelagem de Séries Temporais](https://github.com/vcwild/wtp-model)
+
 # Apresentação <a name="ovr">
 
 ## Extração de Dados
@@ -44,8 +50,4 @@ O extrator localizou os seguintes dados referente a **localidades** nos arquivos
 - Leito de Secagem
 - PTEL
 
-## Próximas Etapas
-
-- [Tratamento de Dados](https://github.com/vcwild/wtp-clean)
-- [Análise Exploratória](https://github.com/vcwild/wtp-eda)
-- [Modelagem de Séries Temporais](https://github.com/vcwild/wtp-model)
+[Próxima Etapa »](https://github.com/vcwild/wtp-clean)
